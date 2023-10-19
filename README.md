@@ -3,7 +3,7 @@ A plugin for Hestia Control Panel (via [hestiacp-pluginable](https://github.com/
 
 &nbsp;
 ## Installation
-HCPP-MQTT-Server requires an Ubuntu or Debian based installation of [Hestia Control Panel](https://hestiacp.com) in addition to an installation of [HestiaCP-Pluginable](https://github.com/virtuosoft-dev/hestiacp-pluginable) to function; please ensure that you have first installed pluginable on your Hestia Control Panel before proceeding. Switch to a root user and simply clone this project to the /usr/local/hestia/plugins folder. It should appear as a subfolder with the name `nodeapp`, i.e. `/usr/local/hestia/plugins/mqtt-server`.
+HCPP-MQTT-Server requires an Ubuntu or Debian based installation of [Hestia Control Panel](https://hestiacp.com) in addition to an installation of [HestiaCP-Pluginable](https://github.com/virtuosoft-dev/hestiacp-pluginable) to function; please ensure that you have first installed pluginable on your Hestia Control Panel before proceeding. Switch to a root user and simply clone this project to the /usr/local/hestia/plugins folder. It should appear as a subfolder with the name `mqtt-server`, i.e. `/usr/local/hestia/plugins/mqtt-server`.
 
 First, switch to root user:
 ```
